@@ -25,4 +25,4 @@ const Item: React.FC<Props> = ({ item, handleAddToCart }) => {
   )
 }
 
-export default Item
+export default Item;
